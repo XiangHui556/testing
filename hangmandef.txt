@@ -1,0 +1,116 @@
+mathematics|Education|1+1=2
+history|Education|Ages
+english|Education|
+science|Education|Facts and Logic
+geography|Education|Landforms
+harry potter|Novel/Movie|Wizard
+the lord of the rings|Novel/Movie|Ring
+discord|Software|
+youtube|Website|
+google|Website|
+genshin impact|Game|Open-World, Role-Playing, Action, Gacha
+vortex|Word|
+witchcraft|Word|Magic
+hexadecimal|Math and Computing|
+jazz|Music Genre|
+the weeknd|Song Artist|Saturday and Sunday
+marshmello|Song Artist|White
+maroon 5|Song Artist|Red
+linkin park|Song Artist|
+oxygen|Word|Gas
+word|Word|
+strength|Word|Strong
+jumbo|Word|Big
+jukebox|Music Equipment|
+minecraft|Game|Blocks
+headphone|Accessory|
+mouse|Accessory|
+keyboard|Accessory|
+cups|Dish|
+plates|Dish|
+bowls|Dish|
+fork|Cutlery|
+spoon|Cutlery|
+knife|Cutlery|
+please|word|
+taylor swift|Song Artist|Female Singer
+microwave|Cooking Device|
+stove|Cooking Device|
+y = mx + c|Equations|Straight line equation
+c^2 = a^2 + b^2|Equations|Some dude's Theorem
+f = ma|Equations|Newton
+league of legends|Game|MOBA
+counter-strike: global offensive|Game|FPS
+grand theft auto|Game|Stealing Cars
+chess|Game|
+nightclub|Place|Party
+pizza|Food|Round and Triangle
+e = mc^2|Equations|Einstein
+blizzard|Word|
+jackpot|Word|Gamble
+mathematical equation|Math|y = mx + c
+cobweb|Word|Spider
+spider|Animal|8 Legs
+fox|Animal|Orange
+dog|Animal|
+cat|Animal|
+rhythm|Word|
+mercury|Planet|
+earth|Planet|
+mars|Planet|
+venus|Planet|
+jupiter|Planet|
+saturn|Planet|
+uranus|Planet|
+neptune|Planet|
+eros|Planet|
+ceres|Planet|
+vesta|Planet|
+16 psyche|Planet|
+the journey of a thousand miles begins with one step.|Quotes|Lao Tzu
+life is what happens when you're busy making other plans.|Quotes|John Lennon
+when the going gets tough, the tough get going.|Quotes|Joe Kennedy
+you must be the change you wish to see in the world.|Quotes|Mahatma Gandhi
+you only live once, but if you do it right, once is enough.|Quotes|Mae West
+you miss 100 percent of the shots you never take.|Quotes|Wayne Gretzky
+Those who dare to fail miserably can achieve greatly.|Quotes|John F. Kennedy
+Dream big and dare to fail.|Quotes|Norman Vaughan
+If you judge people, you have no time to love them.|Quotes|Mother Teresa
+Don't be afraid to give up the good to go for the great.|Quotes|John D. Rockefeller
+When you reach the end of your rope, tie a knot in it and hang on.|Quotes|Franklin D. Roosevelt
+Success is not final, failure is not fatal: it is the courage to continue that counts.|Quotes|Winston Churchill
+The only impossible journey is the one you never begin.|Quotes|Tony Robbins
+We have nothing to fear but fear itself.|Quotes|Franklin D. Roosevelt
+Those who cannot remember the past are condemned to repeat it.|Quotes|George Santayana
+Insanity is doing the same thing over and over again and expecting different results.|Quotes|Albert Einstein
+It is never too late to be what you might have been.|Quotes|George Eliot
+Shoot for the moon. Even if you miss, you'll land among the stars.|Quotes|Les Brown
+Knowing yourself is the beginning of all wisdom.|Quotes|Aristotle
+Life is not a problem to be solved, but a reality to be experienced.|Quotes|Soren Kierkegaard
+Once you've accepted your flaws, no one can use them against you.|Quotes|George R. R. Martin
+You will face many defeats in life, but never let yourself be defeated.|Quotes|Maya Angelou
+Power tends to corrupt, and absolute power corrupts absolutely.|Quotes|John Dalberg-Acton
+Those who cannot remember the past are condemned to repeat it.|Quotes|George Santayana
+python|Language|Programming
+english|Language|
+chinese|Language|
+korean|Language|
+japanese|Language|
+malay|Language|
+arabic|Language|
+irish|Language|
+russian|Language|
+latin|Language|
+turkish|Language|
+greek|Language|
+german|Language|
+french|Language|
+vietnamese|Language|
+hindi|Language|
+whatsapp|Application|messager
+instagram|Application|Social Media
+facebook|Application|Social Media
+twitter|Application|Social Media
+tiktok|Application|Social Media
+snapchat|Application|Social Media
+telegram|Application|Social Media
